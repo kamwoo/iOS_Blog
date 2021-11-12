@@ -1,0 +1,53 @@
+{
+  "identifier" : "9CC1F33C",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "CB07FB37",
+      "localizations" : [
+
+      ],
+      "name" : "Premium",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "BE9AD9FA",
+          "introductoryOffer" : {
+            "displayPrice" : "",
+            "internalID" : "C3B54553",
+            "paymentMode" : "none"
+          },
+          "localizations" : [
+            {
+              "description" : "Unlock all Posts",
+              "displayName" : "premium monthly",
+              "locale" : "ko"
+            }
+          ],
+          "productID" : "Blog.com.kamwoo.www.premium",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Premium",
+          "subscriptionGroupID" : "CB07FB37",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
